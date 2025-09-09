@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: KamiCodee
+title: KamiCode
 
 # Your name to show in the footer
 author: Kamila Alvarado
@@ -20,7 +20,7 @@ author: Kamila Alvarado
 ###############################################
 
 navbar-links:
-  About Me: "Kamila's Website"
+  About Me: "Welcome to KamiCode Website"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
