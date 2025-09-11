@@ -31,6 +31,10 @@ My experience with sewing is very limitied. It began in the fifth grade, when I 
 **Fun Fact about Me**
 I have a pug/french bulldog named Jack. He turned 6 this summer!
 
+How about a yummy crepe?
+
+![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg)
+
 
 
 
@@ -55,9 +59,7 @@ Here's a table:
 You can use [MathJax](https://www.mathjax.org/) to write LaTeX expressions. For example:
 When \\(a \ne 0\\), there are two solutions to \\(ax^2 + bx + c = 0\\) and they are $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
 
-How about a yummy crepe?
 
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg)
 
 It can also be centered!
 
