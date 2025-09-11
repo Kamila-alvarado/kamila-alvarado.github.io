@@ -27,6 +27,7 @@ My experience with sewing is very limitied. It began in the fifth grade, when I 
 ## What I hope to learn in this class
 
 ## Fun Fact about Me
+
 I have a pug/french bulldog named Jack. He turned 6 this summer!
 
 How about a yummy crepe?
