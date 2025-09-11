@@ -51,7 +51,7 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "ka16@williams.edu"
-  linkedin: https://www.linkedin.com/in/kamila-alvarado-12bb8a24a
+# linkedin: https://www.linkedin.com/in/kamila-alvarado-12bb8a24a
  # telephone: +19294625611
   #rss: false  # remove this line if you don't want to show an RSS link at the bottom
   # facebook: deanattali
