@@ -35,6 +35,7 @@ How about a yummy crepe?
 
 ![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg)
 
+![Jack](https://beautifuljekyll.com/assets/img/jack6bday.jpg)
 
 
 
