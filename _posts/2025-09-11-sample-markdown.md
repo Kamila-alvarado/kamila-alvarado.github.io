@@ -14,11 +14,11 @@ author: Kamila Alvarado
 {: .box-success}
 Hi, my name is Kamila Alvarado and I am a first-year at Williams College. I am interested in the field of psychology, but I am also enthusiatic to explore the variety of fields Williams has to offer, including Computer Science. That is why I am taking CSCI 103 - Electronic Textiles. 
 
-# My Programming Experience
+### My Programming Experience
 
 My first ever introduction to the world of Computer Science was my Sophomore year of highschool. I decided to push myself to take a class I was shying away from for so long: Game Programming. Although the class gave me a basic foundation in using javascript and working with classmates to debug codes, I found the class very challenging and difficult for the information and patterns to stick. Also since I last took the course in my sophomore year and I am now a first-year in college, I decided to give programming another chance, and see how my passion for it evolves. 
 
-# My Sewing Experience
+## My Sewing Experience
 
 My experience with sewing is very limitied. It began in the fifth grade, when I joined my school's Art club. Due to limited resources at home, I was unable to continue my interest in sewing and crocheting. However, I am looking forward to rekindling with the passion.
 
