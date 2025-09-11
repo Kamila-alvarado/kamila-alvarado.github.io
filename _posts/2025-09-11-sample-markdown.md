@@ -12,7 +12,7 @@ author: Kamila Alvarado
 ---
 
 {: .box-success}
-Hi, my name is Kamila Alvarado and I am a first-year at Williams College. I am interested in the field of psychology, but am also enthusiatic to explore the variety of fields Williams has to offer, including Computer Science. That is why I am taking CSCI 103 - Electronic Textiles. 
+Hi, my name is Kamila Alvarado and I am a first-year at Williams College. I am interested in the field of psychology, but I am also enthusiatic to explore the variety of fields Williams has to offer, including Computer Science. That is why I am taking CSCI 103 - Electronic Textiles. 
 
 #My Programming Experience
 
