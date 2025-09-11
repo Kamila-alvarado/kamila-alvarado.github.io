@@ -1,5 +1,4 @@
 ---
-Create one post appearing at the top of your posts, that includes your name, your year, [potential] major(s), your sewing experience, your programming experience, what you hope to learn in this class,
 
 layout: post
 title: My Computer Science Experience.
