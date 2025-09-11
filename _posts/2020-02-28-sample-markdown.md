@@ -1,17 +1,35 @@
 ---
+Create one post appearing at the top of your posts, that includes your name, your year, [potential] major(s), your sewing experience, your programming experience, what you hope to learn in this class,
+
 layout: post
-title: Kamila's first post.
+title: My Computer Science Experience.
 subtitle: Why I am taking CSCI 134!
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 mathjax: true
-author: Bill Smith
+author: Kamila Alvarado
 ---
 
 {: .box-success}
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/tables/etc.<br/>I also encourage you to look at the [code that created this post](https://raw.githubusercontent.com/daattali/beautiful-jekyll/master/_posts/2020-02-28-sample-markdown.md) to learn some more advanced tips about using markdown in Beautiful Jekyll.
+Hi, my name is Kamila Alvarado and I am a first-year at Williams College. I am interested in the field of psychology, but am also enthusiatic to explore the variety of fields Williams has to offer, including Computer Science. That is why I am taking CSCI 103 - Electronic Textiles. 
+
+My Sewing Experience 
+
+My experience with sewing is very limitied. It began in the fifth grade, when I joined my school's Art club. Due to limited resources at home, I was unable to continue my interest in sewing and crocheting. However, I am looking forward to rekindling with the passion.
+
+My Programming Experience
+
+My first ever introduction to the world of Computer Science was my Sophomore year of highschool. I decided to push myself to take a class I was shying away from for so long, Game Programming. Although the class gave me a foundation in using javascript and working with classmates to debug codes.
+
+Heavy emphasis on javascript
+
+What I hope to learn in this class
+
+
+
+I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/tables/etc.<br/>I also encourage you to look at the [code that created this post](https://raw.githubusercontent.com/daattali/beautiful-jekyll/master/_posts/2020-02-28-sample-markdown.md) to learn some more advanced tips about using markdown in Beautiful Jekyll.
 
 **Here is some bold text**
 
