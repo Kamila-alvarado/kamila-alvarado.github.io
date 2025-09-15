@@ -1,8 +1,7 @@
 ---
 
 layout: post
-title: More about me
-subtitle: My CSCI Experience
+title: My CSCI Experience
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
