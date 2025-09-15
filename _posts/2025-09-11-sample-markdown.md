@@ -16,15 +16,15 @@ Hi, my name is Kamila Alvarado and I am a first-year at Williams College. I am i
 
 ### My Programming Experience
 
-My first ever introduction to the world of Computer Science was my Sophomore year of highschool. I decided to push myself to take a class I was shying away from for so long: Game Programming. Although the class gave me a basic foundation in using javascript and working with classmates to debug codes, I found the class very challenging and difficult for the information and patterns to stick. Also since I last took the course in my sophomore year and I am now a first-year in college, I decided to give programming another chance, and see how my passion for it evolves.
+My first introduction to the world of Computer Science was during my sophomore year of high school. I decided to push myself to take a class I had been shying away from for so long: Game Programming. Although the class gave me a basic foundation in using JavaScript and collaborating with classmates to debug code, I found it very challenging, and the information and patterns didn’t always stick. Since I last took the course in my sophomore year and am now a first-year in college, I decided to give programming another chance and see how my passion for it evolves.
 
 ### My Sewing Experience
 
-My experience with sewing is very limited. It began in the fifth grade, when I joined my school's Art club. Due to limited resources at home, I was unable to continue my interest in sewing and crocheting. However, I am looking forward to rekindling my passion.
+My experience with sewing is very limited. It began in fifth grade, when I joined my school’s art club. Because I had limited resources at home, I wasn’t able to continue exploring my interest in sewing and crocheting. However, I am now looking forward to rekindling that passion.
 
 ### What I hope to learn in this class
 
-I hope to gain more confidence in sewing, programming an Arduino, and creating prototypes. Overall, I look forward to learning the necessary skills to create my final project, an eTextiles product.
+I hope to gain more confidence in sewing, programming an Arduino, and creating prototypes. Overall, I look forward to developing the skills necessary to complete my final project, an eTextiles product.
 
 ### Fun Fact about Me
 
