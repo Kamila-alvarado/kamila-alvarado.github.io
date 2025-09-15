@@ -1,8 +1,8 @@
 ---
 
 layout: post
-title: My Computer Science Experience.
-subtitle: Why I am taking CSCI 134!
+title: More about me
+subtitle: My CSCI Experience
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
