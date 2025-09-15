@@ -1,16 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Why I am taking Electronic Textiles
 ---
 
-My name is Kamila Alvarado. I have the following qualities:
-
-- I have a pet dog named Jack. He is a 6 year old pug/french bulldog.
-- I am from NYC. 
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Have you ever thought about the behind-the-scenes of creating wearable technology? I never asked myself what tools or programming went into it until I came across CSCI-103 Electronic Textiles. As someone with a curious mindset, I was intrigued by this course's objective to learn to sew, create prototypes, and program an Arduino, skills I want to not only develop but sharpen. I also want to strengthen my debugging skills, since I feel it directly supports problem-solving overall. My drive to learn the foundations of creating wearable technology, while also challenging myself to take on a course and topic I am very unfamiliar with, is why I am taking Electronic Textiles this semester.
