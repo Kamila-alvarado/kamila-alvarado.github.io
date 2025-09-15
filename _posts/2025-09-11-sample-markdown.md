@@ -33,11 +33,9 @@ I have a pug/french bulldog named Jack. He turned 6 this summer!
 <!--How about a yummy crepe?-->
 
 <!--![Jack](https://kamila-alvarado.github.io/assets/img/jack6bday.jpg)-->
-<img src="https://kamila-alvarado.github.io/assets/img/jack6bday.jpg" alt="image" width="350"/>
+<img src="https://kamila-alvarado.github.io/assets/img/jack6bday.jpg" alt="image" width="350"/> <!--John helped me with inserting and sizing the image during his TA hours-->
 
 <!--![Jack](https://beautifuljekyll.com/assets/img/jack6bday.jpg)-->
-
-
 
 
 <!--I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/tables/etc.<br/>I also encourage you to look at the [code that created this post](https://raw.githubusercontent.com/daattali/beautiful-jekyll/master/_posts/2020-02-28-sample-markdown.md) to learn some more advanced tips about using markdown in Beautiful Jekyll.
