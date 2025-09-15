@@ -20,7 +20,7 @@ author: Kamila Alvarado
 ###############################################
 
 navbar-links:
-  About Me: "Welcome to KamiKode"
+  About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
