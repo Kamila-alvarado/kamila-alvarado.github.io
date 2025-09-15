@@ -32,9 +32,9 @@ I have a pug/french bulldog named Jack. He turned 6 this summer!
 
 <!--How about a yummy crepe?-->
 
-<!--![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg)-->
+![Crepe](https://beautifuljekyll.com/assets/img/jack6bday.jpg)
 
-![Jack](https://beautifuljekyll.com/assets/img/jack6bday.jpg)
+<!--![Jack](https://beautifuljekyll.com/assets/img/jack6bday.jpg)-->
 
 
 
