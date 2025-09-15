@@ -24,15 +24,15 @@ My experience with sewing is very limitied. It began in the fifth grade, when I 
 
 ### What I hope to learn in this class
 
-I hope to learn 
+I hope to gain more confidence in sewing, programming an Arduino, and creating prototypes. Overall, look foward to learning the neccessary skills to create my final project, an eTextiles product.
 
 ### Fun Fact about Me
 
 I have a pug/french bulldog named Jack. He turned 6 this summer!
 
-How about a yummy crepe?
+<!--How about a yummy crepe?-->
 
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg)
+<!--![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg)-->
 
 ![Jack](https://beautifuljekyll.com/assets/img/jack6bday.jpg)
 
