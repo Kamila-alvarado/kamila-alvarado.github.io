@@ -14,10 +14,10 @@ author: Kamila Alvarado
 Photos and a Tip from My Sewing Sample Experience
 
 ### Front of Sewing Sampler
-<img src="https://kamila-alvarado.github.io/assets/img/jack6bday.jpg" alt="image" width="350"/>
-
+<img src="https://kamila-alvarado.github.io/assets/img/frontpic.png" alt="image" width="350"/>
 
 ### Back of Sewing Sampler
+<img src="https://kamila-alvarado.github.io/assets/img/backpic.png" alt="image" width="350"/>
 
 ### Tip for my 'past self'
 
