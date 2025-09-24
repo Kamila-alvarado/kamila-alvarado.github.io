@@ -16,7 +16,7 @@ Description, output reuslts, and a tip to my past self while completing this pro
 ...
 
 ### Screenshot of an example of one output: when the temperature was temp >= 90.
-<img src="https://kamila-alvarado.github.io/assets/img/backpic.png" alt="image" width="350"/>
+<img src="https://kamila-alvarado.github.io/assets/img/swoutput.png" alt="image" width="350"/>
 
 ### Tip for my 'past self'
 
