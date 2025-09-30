@@ -17,7 +17,7 @@ A post on your Project website with a photo of the (1) front (2) & back of your 
 
 
 ### Front of Circuit Plushy
-<img src="https://kamila-alvarado.github.io/assets/img/frontplush.HEIC" alt="image" width="350"/>
+<img src="https://kamila-alvarado.github.io/assets/img/plushfrontactual.png" alt="image" width="350"/>
 
 ### Back of Circuit Plushy
 <img src="https://kamila-alvarado.github.io/assets/img/backpic.png" alt="image" width="350"/>
