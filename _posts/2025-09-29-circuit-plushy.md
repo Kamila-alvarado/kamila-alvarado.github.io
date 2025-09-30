@@ -11,7 +11,7 @@ author: Kamila Alvarado
 ---
 
 {: .box-success}
-For this project, I creatied a plushy that lights up using both a slide switch and a button. The electronic parts are connected with conductive thread, and the plushy itself is sewn together with regular, non-conductive thread.
+For this project, I created a plushy that lights up using both a slide switch and a button. The electronic parts are connected with conductive thread, and the plushy itself is sewn together with regular, non-conductive thread.
 
 ### Front of Circuit Plushy
 <img src="https://kamila-alvarado.github.io/assets/img/plushfrontactual.png" alt="image" width="350"/>
