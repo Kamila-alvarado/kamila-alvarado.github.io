@@ -20,7 +20,7 @@ A post on your Project website with a photo of the (1) front (2) & back of your 
 <img src="https://kamila-alvarado.github.io/assets/img/plushfrontactual.png" alt="image" width="350"/>
 
 ### Back of Circuit Plushy
-<img src="https://kamila-alvarado.github.io/assets/img/backpic.png" alt="image" width="350"/>
+<img src="https://kamila-alvarado.github.io/assets/img/backplushactual" alt="image" width="350"/>
 
 ### Alligator prototyping stage of the Plushy
 <img src="https://kamila-alvarado.github.io/assets/img/backpic.png" alt="image" width="350"/>
