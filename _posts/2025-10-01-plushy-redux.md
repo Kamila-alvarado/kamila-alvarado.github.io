@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Plushy Rzedux Assignment
+title: Plushy Redux Assignment
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
