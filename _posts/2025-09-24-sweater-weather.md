@@ -10,7 +10,7 @@ author: Kamila Alvarado
 ---
 
 {: .box-success}
-Description, output reuslts, and a tip to my past self while completing this program.
+Description, an output reuslts, and a tip to my past self while completing this program.
 
 ### About this assignment
 This assignment called Sweater Weather aims to provide us practice with if / else if / else statements and the && and || operators to support us with coding our prospective eTextile device.
