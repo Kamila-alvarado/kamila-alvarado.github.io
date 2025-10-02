@@ -18,7 +18,7 @@ This assignment aims to use if statements to recreate the behavior of the Circui
 
 ### Screenshot of an example output when button and switch are ON
 
-<img src="https://kamila-alvarado.github.io/assets/img/numberChoice-7mealOption-3 .png" alt="image" width="450"/>
+<img src="https://kamila-alvarado.github.io/assets/img/led123.png" alt="image" width="450"/>
 
 ### Tip for my 'past self'
 One thing I would tell my past self is to leave comments marking where the secret and regular menus are, so I don’t confuse them when inserting values, like I did before.
