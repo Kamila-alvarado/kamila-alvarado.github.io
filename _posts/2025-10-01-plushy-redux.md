@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Odd Menu Assignment
+title: Plushy Rzedux Assignment
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
