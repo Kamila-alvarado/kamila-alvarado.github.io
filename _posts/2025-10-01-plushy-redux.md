@@ -20,4 +20,4 @@ This assignment aims to use if statements to recreate the behavior of the Circui
 <img src="https://kamila-alvarado.github.io/assets/img/led123.png" alt="image" width="450"/>
 
 ### Tip for my 'past self'
-One thing I would tell my past self is to leave comments marking where the secret and regular menus are, so I don’t confuse them when inserting values, like I did before.
+One thing I would tell my past self is to focus on small sections of my code, because trying to debug and find where I was missing brackets was relatively difficult.
