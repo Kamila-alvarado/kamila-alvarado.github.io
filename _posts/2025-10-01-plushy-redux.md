@@ -10,7 +10,7 @@ author: Kamila Alvarado
 ---
 
 {: .box-success}
-Description, output reuslt, and a tip to my past self while completing this program.
+Description, an output reuslt, and a tip to my past self while completing this program.
 
 ### About this assignment
 This assignment aims to use if statements to recreate the behavior of the Circuit Plushy with both the button and switch, further helping us develop our skills as Lilypad Arduino programmers.
