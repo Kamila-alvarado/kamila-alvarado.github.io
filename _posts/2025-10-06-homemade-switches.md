@@ -16,8 +16,8 @@ The aim was to create a simple circuit with one LED and two distinct homemade sw
 ### Front of Circuit Plushy
 <img src="https://kamila-alvarado.github.io/assets/img/plushfrontactual.png" alt="image" width="350"/>
 
-### Back of Circuit Plushy
-<img src="https://kamila-alvarado.github.io/assets/img/backplushactual.png" alt="image" width="360"/>
+### Back of Homemade Switches
+<img src="https://kamila-alvarado.github.io/assets/img/backhsreal.png" alt="image" width="360"/>
 
 ### Alligator prototyping stage of the Plushy
 I forgot to take a picture after completing the prototyping stage with the alligator clips, but this is a recreated image of what the connections would’ve looked like beforehand.
