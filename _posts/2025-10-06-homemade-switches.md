@@ -19,12 +19,14 @@ The aim was to create a simple circuit with one LED and two distinct homemade sw
 ### Back of Homemade Switches
 <img src="https://kamila-alvarado.github.io/assets/img/backhsreal.png" alt="image" width="360"/>
 
-### Alligator prototyping stage of the Plushy
+### Alligator prototyping 
 I forgot to take a picture after completing the prototyping stage with the alligator clips, but this is a recreated image of what the connections would’ve looked like beforehand.
 
-<img src="https://kamila-alvarado.github.io/assets/img/actualalligator.png" alt="image" width="350"/>
+<img src="https://kamila-alvarado.github.io/assets/img/cirpt.png" alt="image" width="350"/>
 
 ### Paper Prototype
 I made adjustments, specifically to the final fabric I used for my design.
 <img src="https://kamila-alvarado.github.io/assets/img/pptype.png" alt="image" width="350"/>
 
+### Tip
+I would tell myself to work with more space. Although smaller designs might seem more manageable and help save fabric, they’re actually more difficult since loose fabric can cause circuits to form incorrectly if not sewn properly.
