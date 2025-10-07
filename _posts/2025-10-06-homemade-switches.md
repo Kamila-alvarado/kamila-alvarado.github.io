@@ -24,6 +24,7 @@ I forgot to take a picture after completing the prototyping stage with the allig
 
 <img src="https://kamila-alvarado.github.io/assets/img/actualalligator.png" alt="image" width="350"/>
 
-### Plushy Paper Prototype
-<img src="https://kamila-alvarado.github.io/assets/img/Plushypaperprototype.png" alt="image" width="350"/>
+### Paper Prototype
+I made adjustments, specifically to the final fabric I used for my design.
+<img src="https://kamila-alvarado.github.io/assets/img/pptype.png" alt="image" width="350"/>
 
