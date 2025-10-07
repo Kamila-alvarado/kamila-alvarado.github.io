@@ -22,7 +22,7 @@ The aim was to create a simple circuit with one LED and two distinct homemade sw
 ### Alligator prototyping 
 I forgot to take a picture after completing the prototyping stage with the alligator clips, but this is a recreated image of what the connections would’ve looked like beforehand.
 
-<img src="https://kamila-alvarado.github.io/assets/img/cirpt.png" alt="image" width="350"/>
+<img src="https://kamila-alvarado.github.io/assets/img/circpt.png" alt="image" width="350"/>
 
 ### Paper Prototype
 I made adjustments, specifically to the final fabric I used for my design.
