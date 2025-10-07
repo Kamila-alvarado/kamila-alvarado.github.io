@@ -14,7 +14,7 @@ author: Kamila Alvarado
 The aim was to create a simple circuit with one LED and two distinct homemade switches that only light the LED when both are pressed.
 
 ### Front of Circuit Plushy
-<img src="https://kamila-alvarado.github.io/assets/img/plushfrontactual.png" alt="image" width="350"/>
+<img src="https://kamila-alvarado.github.io/assets/img/fronths.png" alt="image" width="350"/>
 
 ### Back of Homemade Switches
 <img src="https://kamila-alvarado.github.io/assets/img/backhsreal.png" alt="image" width="360"/>
