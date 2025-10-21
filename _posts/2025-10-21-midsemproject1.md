@@ -1,9 +1,27 @@
-A single post (for all 3 Sparklies) on your Project website with:
+---
+layout: post
+title: Mid-semester Project 1
+gh-repo: daattali/beautiful-jekyll
+gh-badge: [star, fork, follow]
+tags: [test]
+comments: true
+mathjax: true
+author: Kamila Alvarado
+---
 
-A photo of each of your 3 working sets of LEDs
+{: .box-success}
+Separate Sparklies: 1) flashbulb 2) bigdipper 3) synchronus
 
-Include a description of the project (in your words)
+### About this assignment
+Using the foundation of programming skills we've deveoped, this part of the project aims to program 3 seperate LEDSs, each with a distinct blinking pattern.
 
-One tip/trick/hint for others attempting this project for the first time.
+### A photo of each of ALL 3 working sets of LEDs
+1) Flashbulb
+<img src="https://kamila-alvarado.github.io/assets/img/led123.png" alt="image" width="450"/>
+2) Bigdipper
+<img src="https://kamila-alvarado.github.io/assets/img/led123.png" alt="image" width="450"/>
+3) Synchronus
+<img src="https://kamila-alvarado.github.io/assets/img/led123.png" alt="image" width="450"/>
 
-Do not post your code!
+### One tip for others attempting this project for the first time.
+One thing I would recommend is asking your professor or TA for help whenever you feel stuck, even if it’s just for clarification. For example, I felt stuck on the synchronous program, but with their help, I discovered some shortcuts or more efficient tools to navigate it such as using boolean logic.
