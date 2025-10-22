@@ -19,9 +19,9 @@ Using the foundation of programming skills we've deveoped, this part of the proj
 1) Flashbulb
 <img src="https://kamila-alvarado.github.io/assets/img/led123.png" alt="image" width="450"/>
 2) Bigdipper
-<img src="https://kamila-alvarado.github.io/assets/img/led123.png" alt="image" width="450"/>
+Had trouble testing on Lilypad device.
 3) Synchronus
-<img src="https://kamila-alvarado.github.io/assets/img/led123.png" alt="image" width="450"/>
+Had trouble testing on Lilypad device.
 
 ### One tip for others attempting this project for the first time.
 One thing I would recommend is asking your professor or TA for help whenever you feel stuck, even if it’s just for clarification. For example, I felt stuck on the synchronous program, but with their help, I discovered some shortcuts or more efficient tools to navigate it such as using boolean logic.
