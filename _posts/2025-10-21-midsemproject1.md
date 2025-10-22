@@ -17,10 +17,12 @@ Using the foundation of programming skills we've deveoped, this part of the proj
 
 ### A photo of each of ALL 3 working sets of LEDs
 1) Flashbulb
-<img src="https://kamila-alvarado.github.io/assets/img/led123.png" alt="image" width="450"/>
+<img src="https://kamila-alvarado.github.io/assets/img/lilypadbulb.png" alt="image" width="450"/>
+
 2) Bigdipper
 Had trouble testing on Lilypad device.
-3) Synchronus
+
+4) Synchronus
 Had trouble testing on Lilypad device.
 
 ### One tip for others attempting this project for the first time.
