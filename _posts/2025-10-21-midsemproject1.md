@@ -21,9 +21,11 @@ Using the foundation of programming skills we've deveoped, this part of the proj
 <img src="https://kamila-alvarado.github.io/assets/img/lilypadbulb.png" alt="image" width="450"/>
 
 2) Bigdipper
+
 Had trouble testing on Lilypad device.
 
 3) Synchronus
+   
 Had trouble testing on Lilypad device.
 
 ### One tip for others attempting this project for the first time.
