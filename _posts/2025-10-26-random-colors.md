@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Random Colors
+title: Simultaneous Sparklies
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
