@@ -22,3 +22,4 @@ This program will turn on red lights on the arduino when the room temperature is
 
 ### A tip I would give to my past self is...
 to make sure that in the void set up I have the correct functions of the variables listed- not mixing my inputs for outputs and vice versa.
+ 
