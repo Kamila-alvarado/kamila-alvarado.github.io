@@ -17,7 +17,7 @@ This program will turn on red lights on the arduino when the room temperature is
 
 ### Photo of Arduino kit output
 
-<img src="https://kamila-alvarado.github.io/assets/img/randomcolor.png" alt="image" width="450"/>
+<img src="https://kamila-alvarado.github.io/assets/img/ghostdetector.png" alt="image" width="450"/>
 
 
 ### A tip I would give to my past self is...
