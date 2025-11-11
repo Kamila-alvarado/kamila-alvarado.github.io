@@ -1,5 +1,19 @@
+---
 
+layout: post
+title: Project Proposal
+gh-repo: daattali/beautiful-jekyll
+gh-badge: [star, fork, follow]
+tags: [test]
+comments: true
+mathjax: true
+author: Kamila Alvarado
+---
 
+{: .box-success}
+This is my project proposal.
 
 ### Front of Circuit Plushy
 <img src="https://kamila-alvarado.github.io/assets/img/fronths.png" alt="image" width="350"/>
+
+
