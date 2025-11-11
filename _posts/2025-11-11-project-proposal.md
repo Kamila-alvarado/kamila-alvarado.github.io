@@ -14,6 +14,6 @@ author: Kamila Alvarado
 Below is my project proposal including a brief circuit sketch, materials needed, and the specifc inputs and outputs I will incorporate. 
 
 ### Proposal Pitch Image
-<img src="https://kamila-alvarado.github.io/assets/img/projectproposal.png" alt="image" length= "1300" width="730"/>
+<img src="https://kamila-alvarado.github.io/assets/img/actprojectproposal.png" alt="image" length= "1300" width="730"/>
 
 
