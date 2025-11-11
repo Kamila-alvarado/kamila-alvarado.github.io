@@ -11,7 +11,7 @@ author: Kamila Alvarado
 ---
 
 {: .box-success}
-This is my project proposal.
+Below is my project proposal including a brief circuit sketch, materials needed, and the specifc inputs and outputs I will incorporate. 
 
 ### Proposal Pitch Image
 <img src="https://kamila-alvarado.github.io/assets/img/projectproposal.png" alt="image" length= "1300" width="730"/>
