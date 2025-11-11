@@ -14,6 +14,6 @@ author: Kamila Alvarado
 This is my project proposal.
 
 ### Proposal Pitch Image
-<img src="https://kamila-alvarado.github.io/assets/img/projectproposal.png" alt="image" width="730"/>
+<img src="https://kamila-alvarado.github.io/assets/img/projectproposal.png" alt="image"length= "1300width="730"/>
 
 
