@@ -13,11 +13,11 @@ author: Kamila Alvarado
 Description, photo, and a tip.
 
 ### About this assignment
-This program aims to produe morse code. It will spit out SOS when alligator clips are connected and my nick-name, Kami, when disconnected.
+This program aims to pick a random analog pin. If it’s alreafy on, it turns it off. If it’s off, it gives it a random brightness to turn it on.
 
 ### Photo of Arduino kit output
 
 <img src="https://kamila-alvarado.github.io/assets/analogarrays.png" alt="image" width="450"/>
 
 ### A tip I would give to my past self is...
-to continue asking for assistance when needed, whether from peers or TA's. I learned a lot from working with my peers. 
+to always, first, consider using a boolean statement- in the case of this assignment it would be to track the on and off states corresponding to the PWM pins. 
