@@ -17,7 +17,7 @@ This program aims to pick a random analog pin. If it’s alreafy on, it turns it
 
 ### Photo of Arduino kit output
 
-<img src="https://kamila-alvarado.github.io/assets/analogarrays.png" alt="image" width="450"/>
+<img src="https://kamila-alvarado.github.io/assets/aa.png" alt="image" width="450"/>
 
 ### A tip I would give to my past self is...
 to always, first, consider using a boolean statement- in the case of this assignment it would be to track the on and off states corresponding to the PWM pins. 
