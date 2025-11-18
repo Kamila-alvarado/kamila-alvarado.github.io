@@ -14,7 +14,7 @@ Description and photo of paper prototype.
 
 ### About about my Paper Prototype
 
-This prototype displays the connections between all my digital/analog inputs and outputs, with other components as well, including the Lilypad arduino and battery. The logic behind  what my prototype aims to do is the following: If the switch is pressed then the buzzer plays song. In addition, if the light sensor value < threshold, then LEDs turn on.
+This prototype displays the connections between all my digital and analog inputs and outputs, along with other components such as the LilyPad Arduino and the battery. The logic behind what my prototype aims to do is the following: when the switch is pressed, the buzzer plays a holiday song. In addition, when the room becomes dark enough (sensor value below the threshold), the three LEDs light up.
 
 ### Photo of Paper Prototype
 
