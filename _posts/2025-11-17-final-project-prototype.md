@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Final Project Paper Prototype 
+title: Holiday Dog Scarf Paper Prototype
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
